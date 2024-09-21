@@ -18,5 +18,5 @@ python3 ./encryptor.py [file_to_encrypt.txt] [password_file.txt] [file_to_decryp
 ```
 5. To decrypt type in terminal: 
 ```sh
-python3 ./encryptor.py [file_to_decrypt.bin] [password_file.txt] [output_name.txt]
+python3 ./decryptor.py [file_to_decrypt.bin] [password_file.txt] [output_name.txt]
 ```
